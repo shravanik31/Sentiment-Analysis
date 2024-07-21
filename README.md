@@ -31,18 +31,18 @@ The dataset used for this project can be found on Kaggle: [Twitter Sentiment Ana
 
 You can install the required packages using pip:
 
-\`\`\`bash
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras
-\`\`\`
+```
 
 ## Usage
 
 1. **Clone the repository:**
 
-    \`\`\`bash
-    git clone https://github.com/shravanik31/twitter-sentiment-analysis.git
+    ```bash
+    git clone https://github.com/shravanik31/Sentiment-Analysis.git
     cd twitter-sentiment-analysis
-    \`\`\`
+    ```
 
 2. **Download the dataset:**
 
@@ -50,9 +50,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras
 
 3. **Run the Jupyter Notebook:**
 
-    \`\`\`bash
-    jupyter notebook Twitter_Sentiment_Analysis.ipynb
-    \`\`\`
+    ```bash
+    jupyter notebook SentimentAnalysis.ipynb
+    ```
 
 4. **Follow the steps in the notebook:**
 
