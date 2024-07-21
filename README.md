@@ -1,3 +1,4 @@
+
 # Twitter Sentiment Analysis
 
 ## Overview
@@ -30,5 +31,44 @@ The dataset used for this project can be found on Kaggle: [Twitter Sentiment Ana
 
 You can install the required packages using pip:
 
-```bash
+\`\`\`bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras
+\`\`\`
+
+## Usage
+
+1. **Clone the repository:**
+
+    \`\`\`bash
+    git clone https://github.com/shravanik31/twitter-sentiment-analysis.git
+    cd twitter-sentiment-analysis
+    \`\`\`
+
+2. **Download the dataset:**
+
+    Download the dataset from [Kaggle](https://www.kaggle.com/ywang311/twitter-sentiment) and place the files in the `data/` directory.
+
+3. **Run the Jupyter Notebook:**
+
+    \`\`\`bash
+    jupyter notebook Twitter_Sentiment_Analysis.ipynb
+    \`\`\`
+
+4. **Follow the steps in the notebook:**
+
+    The notebook includes all steps for data loading, preprocessing, model training, and evaluation.
+
+## Models
+
+This project implements two deep learning models for sentiment analysis:
+
+1. **Long Short Term Memory (LSTM):** 
+    LSTM networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems.
+
+2. **Dynamic Convolutional Neural Network (DCNN):**
+    DCNN is a variant of the convolutional neural network that is capable of dynamically adjusting the convolutional filters to learn complex patterns in the data.
+
+## Results
+
+The models are evaluated based on their accuracy, precision, recall, and F1-score. Detailed results and performance metrics are provided in the notebook.
+
