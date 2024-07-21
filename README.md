@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras
 
 2. **Download the dataset:**
 
-    Download the dataset from [Kaggle](https://www.kaggle.com/ywang311/twitter-sentiment) and place the files in the `data/` directory.
+    Download the dataset from [Kaggle](https://www.kaggle.com/ywang311/twitter-sentiment) and place the files in your directory.
 
 3. **Run the Jupyter Notebook:**
 
