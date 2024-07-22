@@ -41,7 +41,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras
 
     ```bash
     git clone https://github.com/shravanik31/Sentiment-Analysis.git
-    cd twitter-sentiment-analysis
+    cd Sentiment-Analysis
     ```
 
 2. **Download the dataset:**
